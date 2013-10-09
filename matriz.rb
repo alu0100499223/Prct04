@@ -43,7 +43,7 @@ for i in 0...m do
   end
 end
 
-# Mostrar resultados
+# Mostrar resultados de la suma
 # Suma
 
 puts "La suma es: "
