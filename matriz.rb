@@ -4,7 +4,7 @@ require 'matrix'
 # Matrix1 = array.new
 # Matrix2 = array.new
 
-a = [[1, 2],[3, 4]]
+a = [[1, 2],[3, 7]]
 b = [[2, 3],[4, 5]]
 
 c = Array.new # Matriz resultante de la suma
